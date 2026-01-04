@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debankan</h1>
-<h3 align="center">An Azure DevOps Learner and Cloud Enthusiast</h3>
+<h3 align="center">An AWS Data Engineer Learner and Cloud Enthusiast</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-- 🤔 &nbsp; Exploring the vast realm of Azure DevOps and cloud technologies.
-- 🎓 &nbsp; Embarking on my cloud journey to master Azure DevOps.
+- 🤔 &nbsp; Exploring the vast realm of Data Engineering and Cloud technologies.
+- 🎓 &nbsp; Embarking on my cloud journey to master AWS Data Engineer.
 - 🌱 &nbsp; Delving into the world of cloud architecture, CI/CD pipelines, and collaborative DevOps practices.
 - ✍️ &nbsp; Eager to tackle intricate cloud challenges and contribute to efficient cloud solutions.
 - 📫 How to reach me **debankansarkarins@gmail.com**
@@ -21,7 +21,7 @@
 <br/>
 
 ## What Am I Current Doing
- *  I am currently 🔭 immersing myself in Azure DevOps principles and concurrently learning cloud networking.
+ *  I am currently 🔭 immersing myself in AWS Data Engineer Learner principles and concurrently learning cloud networking.
  * Taking my first steps into Azure's powerful capabilities and concepts!
 
 ## 📫 Blog
